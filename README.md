@@ -14,4 +14,6 @@ Pewlett Hackard is a large company that is at risk of losing many employees in w
 
 ![retiring titles](Data/retiring_titles.png)
 
+![mentorship eligibility](Data/mentorship_eligibility.png)
+
 ## Summary 
