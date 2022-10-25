@@ -17,6 +17,9 @@ Pewlett Hackard is a large company that is at risk of losing many employees in w
 
 ![retiring titles](Data/retiring_titles.png)
 
+  - Many employees in the mentorship eligibility table, part of which is shown below, are already in senior or leadership positions. They may or may not need further mentorship.
+  - Some employees looked like they joined the company right after college, while others joined some time later. Employees who have been at the company for a shorter period of time may be more likely to need mentorship. 
+
 ![mentorship eligibility](Data/mentorship_eligibility.png)
 
 ## Summary 
