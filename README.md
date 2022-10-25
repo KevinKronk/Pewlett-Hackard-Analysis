@@ -12,6 +12,9 @@ Pewlett Hackard is a large company that is at risk of losing many employees in w
 
 ## Results
 
+  - As shown in the retiring title table below, senior engineers and senior staff make up the largest groups of employees who are close to retirement. This makes sense because these employees are at the end of their careers. 
+  - Interestingly enough though there are only two managers close to retirement. Perhaps either there are few managers overall, or a younger cohort has already taken over those positions. 
+
 ![retiring titles](Data/retiring_titles.png)
 
 ![mentorship eligibility](Data/mentorship_eligibility.png)
